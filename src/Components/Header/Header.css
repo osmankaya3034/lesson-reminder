@@ -1,0 +1,25 @@
+.Header-div{
+	display: flex;
+	justify-content: center;	
+	width: 100%;
+	height: 100%;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 15px;	
+	align-items: center;
+	background-image: linear-gradient(to right,aqua, brown) ;
+	
+}
+
+
+
+img{
+	width:150px;
+	height: 50px;
+}
+.lesson{
+	color: red;
+	font-size: 30px;
+	font-family: fantasy;
+	text-align: center;
+	margin-top: 10px;
+}
